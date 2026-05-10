@@ -8,32 +8,7 @@ You can just execute them on your browser or use them in other more complex proj
 As I am a noob and I don't know what more to say and also I'm not a serious coder here is a small design I made with my ASCII art generator, you can check it out if you want :)
 
 
-                ()
-                JL
-                ||
-                LJ
-          _,--"""""""---.
-        ,'               `.
-       /                   \
-      J                     L
-      F                     L
-     J                      J
-     |                      J
-  ___L______________        J
- /,---------------. "".     J
-JJ   /     \/      |  J     J
-LL  J      J       |   L    J
-JJ  J #    J #     |   L    |
- \\__`.___,_`.____,'   F    |
-  ""-.---------....___/     |
-     |_T--+---+--.,._       |
-       |--|----\---\-`.     |
-       |__|____J___J_ F     F
-      _|__|____|___|_/      L
-     |                      L
-     |____________________M-K 
-
-
+PD:The art work is a headache in GitHub, seriously, FIX THAT
  
 
 
